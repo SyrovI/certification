@@ -27,3 +27,11 @@ git checkout <№ commit>
 ```sh
 git diff <№ commit>
 ```
+### Команда смены директории
+```sh
+cd c:\folder_name
+```
+### Удаление файла в Windows:
+```sh
+del <filename>
+```
