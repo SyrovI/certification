@@ -23,3 +23,7 @@ git log --online
 ```sh
 git checkout <№ commit>
 ```
+**Показать отличия коммитов**
+```sh
+git diff <№ commit>
+```
