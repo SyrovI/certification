@@ -11,3 +11,15 @@ git add
 ```sh
 git commit -m<message>
 ```
+**Показать коммиты**
+```sh
+git log
+```
+**Показать сокращенные коммиты**
+```sh
+git log --online
+```
+**Перейти на коммит**
+```sh
+git checkout <№ commit>
+```
