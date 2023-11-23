@@ -9,7 +9,7 @@ git add
 ```
 **Создать коммит**
 ```sh
-git commit -m<message>
+git commit -m<текст>
 ```
 **Показать коммиты**
 ```sh
