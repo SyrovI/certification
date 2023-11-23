@@ -78,10 +78,10 @@ del <filename>
  # Работа с ветками в Markdown
  Для того что бы добавить новую ветку, нужно набрать команду 
  ```h
- git branch "имя_ветки"
+ git branch "branch_name"
  ```
 
 Для того что бы загрузить нужную ветку, нужно ввести команду
 ```h
-git checkout "имя_ветки"
+git checkout "branch_name"
 ```
