@@ -117,3 +117,9 @@ git branch -m main
 ```sh
 git push -u origin main
 ```
+
+внести изменения из локального в удаленный репозиторий
+```sh
+git push
+```
+
