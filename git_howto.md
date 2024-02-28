@@ -100,3 +100,20 @@ git log --oneline --graph
 ```sh
 git merge <имя_ветки>
 ```
+
+## Работа с удаленным репозиторием
+
+связка локального репозитория с удаленным
+```sh
+git remote add origin https://github.com/SyrovI/certification.git
+```
+
+указать какая ветка является основной
+```sh
+git branch -m main
+```
+
+направить то что в локальном, в удаленный репозиторий
+```sh
+git push -u origin main
+```
